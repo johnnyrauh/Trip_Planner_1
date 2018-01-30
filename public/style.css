@@ -9,6 +9,15 @@ body {
 }
 
 #map {
-  height: 100vh;
+  height: 90vh;
   width: 100vw;
+}
+
+#flexbody {
+  display: flex;
+}
+
+.NavBar {
+  height: 10vh;
+  background-color: orange
 }
